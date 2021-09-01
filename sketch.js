@@ -12,7 +12,6 @@ function preload()
 	helicopterImg=loadImage("helicopter.png")
 	bgImg=loadImage("bg.png")
 	packageImg=loadImage("package.png")
-	sucessImg=loadImage("sucess.png")
 
 }
 
